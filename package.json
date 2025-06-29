@@ -1,0 +1,45 @@
+{
+  "name": "humanable",
+  "version": "0.1.0",
+  "description": "Deepractice Humanable Prompt Framework - A revolutionary AI humanization cognitive architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "humanable",
+    "cognitive-architecture",
+    "prompt-framework",
+    "artificial-intelligence",
+    "thinking-orchestration",
+    "role-design",
+    "deepractice",
+    "dpml",
+    "promptx",
+    "llm",
+    "chatbot",
+    "ai-personality"
+  ],
+  "author": "Deepractice Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepractice/Humanable.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Deepractice/Humanable/issues"
+  },
+  "homepage": "https://github.com/Deepractice/Humanable#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "README_EN.md", 
+    "whitepaper.md",
+    "whitepaper_en.md",
+    "LICENSE"
+  ]
+} 
